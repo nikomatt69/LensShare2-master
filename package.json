@@ -115,7 +115,7 @@
     "immer": "^10.0.2",
     "interweave": "^13.0.0",
     "interweave-autolink": "^5.1.0",
-    "ipfs-http-client": "^59.0.0",
+    "ipfs-http-client": "^60.0.1",
     "itty-router": "^4.0.9",
     "itty-router-extras": "^0.4.5",
     "jest": "^29.7.0",
