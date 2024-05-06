@@ -34,7 +34,7 @@
     "@capacitor/core": "^5.2.3",
     "@capacitor/ios": "^5.2.3",
     "@cloudflare/workers-types": "^4.20230724.0",
-    "@ducanh2912/next-pwa": "^9.7.2",
+    "@ducanh2912/next-pwa": "^10.2.7",
     "@emotion/css": "^11.11.0",
     "@fingerprintjs/fingerprintjs": "^3.4.1",
     "@giphy/js-fetch-api": "^4.7.1",
